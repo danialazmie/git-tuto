@@ -39,13 +39,13 @@ def main_menu():
         elif choice == 4:
             search_student()
 
-        if choice == 1:
+        if choice == 5:
             add_teacher()
-        elif choice == 2:
+        elif choice == 6:
             delete_teacher()
-        elif choice == 3:
+        elif choice == 7:
             update_teacher()
-        elif choice == 4:
+        elif choice == 8:
             search_teacher()
         
         elif choice == 9:
