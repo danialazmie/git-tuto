@@ -6,6 +6,8 @@ from print_utils import print_title
 
 def main_menu():
 
+    # This function is to access main menu
+
     while True:
         os.system('cls')
         print_title('School Management System')
