@@ -28,6 +28,8 @@ def add_student():
     pass
 
 def delete_student():
+    # my code here
+    # to delete student
     pass
 
 def update_student():
