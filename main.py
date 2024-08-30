@@ -53,7 +53,7 @@ def main_menu():
 
 
 def main():
-    # my comment inside delete-student branch
+    # main function here
     main_menu()
 
 if __name__ == '__main__':
